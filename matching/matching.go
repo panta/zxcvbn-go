@@ -3,9 +3,9 @@ package matching
 import (
 	"sort"
 
-	"github.com/nbutton23/zxcvbn-go/adjacency"
-	"github.com/nbutton23/zxcvbn-go/frequency"
-	"github.com/nbutton23/zxcvbn-go/match"
+	"github.com/panta/zxcvbn-go/adjacency"
+	"github.com/panta/zxcvbn-go/frequency"
+	"github.com/panta/zxcvbn-go/match"
 )
 
 var (

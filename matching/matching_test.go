@@ -5,7 +5,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/nbutton23/zxcvbn-go/match"
+	"github.com/panta/zxcvbn-go/match"
 	"github.com/stretchr/testify/assert"
 )
 

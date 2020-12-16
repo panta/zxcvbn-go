@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"log"
 
-	"github.com/nbutton23/zxcvbn-go/data"
+	"github.com/panta/zxcvbn-go/data"
 )
 
 // List holds a frequency list
